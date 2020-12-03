@@ -1,0 +1,29 @@
+.submitButton
+{
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+.footer
+{
+  background-color: #76fd81;
+}
+.Enquiry
+{
+  background-color: #857d7d;
+}
+#h1
+{
+  background-color: #b85621;
+  color: #006c1b;
+}
+.link
+{
+  color: #0e1618;
+}
+.content
+{
+  text-align: justify;
+  background-color: #ee4608;
+}
